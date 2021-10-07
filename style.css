@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&display=swap');
+
+body{
+    font-family: 'Libre Baskerville', serif;
+    margin: 0px;
+}
+
+.hero {
+    padding: 1rem;
+    padding-top: 1rem;
+    background-color: #FCD34D;
+}
+
+.hero .hero-heading {
+    text-align: center;
+    padding-top: 1rem;
+    color: black;
+}
+
+textarea {
+    display: block;
+    margin: 0 auto;
+    margin-top: 2.5rem;
+    padding: 1rem;
+    background-color: white;
+    border: 2px solid black;
+    width: 50%;
+    height: 15vh;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 1rem;
+    text-align: center;
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 1rem;
+    background-color: #F59E0B;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#translate-output{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#output{
+    display: block;
+    margin: 0 auto;
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: white;
+    border: 2px solid black;
+    width: 50%;
+    height: 15vh;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.footer {
+    margin-top: 2.5rem;
+    padding: 1rem;
+    padding-top: 1rem;
+    background-color: #FCD34D;
+}
+
+.footer .footer-header {
+    text-align: center;
+    padding-top: 1rem;
+    color: black;
+}
+
+.footer .footer-paragraph{
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
